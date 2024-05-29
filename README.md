@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gaurav-space
+- 👋 Hi, I’m @Gaurav Sharma
 - 👀 I’m interested in web designing projects.
 - 🌱 I’m currently learning node, pyhton.
 - 💞️ I’m looking to collaborate on any web designing project that has good amount of challenging tasks.
